@@ -5,4 +5,4 @@
 ## [REPO Searcher](https://bgoonz.github.io/Github-Repo-Searcher/)
 
 
-![Repo Searcher Screenshot]()
+![Repo Searcher Screenshot](./repo-searcher.jpg)
